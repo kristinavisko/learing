@@ -1,4 +1,7 @@
-"""Unesite 3 broja. Ukoliko su svi veci od 10, ispisite njihov zbroj. U suprotnom ispitajte koji je od njih najveci pa ga pomnozite sa samim sobom te nakon toga ispisite njihov zbroj."""
+"""Unesite 3 broja. Ukoliko su svi veci od 10, 
+ispisite njihov zbroj. U suprotnom ispitajte koji 
+je od njih najveci pa ga pomnozite sa samim 
+sobom te nakon toga ispisite njihov zbroj."""
 
 x = 2
 y = 15
